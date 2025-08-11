@@ -29,7 +29,8 @@
       "perMachine": false,
       "allowElevation": true,
       "allowToChangeInstallationDirectory": false
-    }
+    },
+	"publish": null
   },
   "author": "Your Name",
   "license": "MIT",
